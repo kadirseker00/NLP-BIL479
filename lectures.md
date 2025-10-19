@@ -1,20 +1,35 @@
 ---
 layout: page
-title: içerik
+title: Ders İçeriği
 permalink: /lectures
 ---
 
-Aşağıdaki tablo, haftalık konu akışını içerir. 
+## 📘 Haftalık İçerik ve Slaytlar
 
-| Hafta | Konu |
-|---|---|
-| 1 | Tanışma, ders içeriği, beklentiler |
-| 2 | [Giriş]({{ '/slides/1-Giris.pdf' | relative_url }}){:download} |
-| 3 | [Yürütme Zamanı ve Asimptotik Analiz]({{ '/slides/2-Yurutme-Zamani-ve-Asimptotik-Analiz.pdf' | relative_url }}){:download} |
-| 4 | [Recursive Algoritmalar ve Rekürans Analizi]({{ '/slides/3-Recursive-Algoritmalar-ve-Rekurans-Analizi.pdf' | relative_url }}){:download} |
-| 5 | [Recurrence Analizi Örnekler]({{ '/slides/4-Recurrence-Analizi-Ornekler.pdf' | relative_url }}){:download} |
-| 6 | [Dinamik Programlama]({{ '/slides/5-Dinamik-Programlama.pdf' | relative_url }}){:download} |
-| 7 | [Binary Tree Balance]({{ '/slides/6-Binary-Tree-Balance.pdf' | relative_url }}){:download} |
-| 8 | [Dizi Karşılaştırma]({{ '/slides/7-Dizi-Karsilastirma.pdf' | relative_url }}){:download} |
-| 9 | [Graflar]({{ '/slides/8-Graflar.pdf' | relative_url }}){:download} |
-| 10 | [Heap]({{ '/slides/9-Heap.pdf' | relative_url }}){:download} |
+> Her hafta işlenen konulara ait sunum dosyalarını aşağıdaki bağlantılardan indirebilirsiniz.
+
+| Hafta | Konu Başlığı | Slayt |
+|:------:|:-----------------------------|:----------------------|
+| 1 | Course Overview | [📄 İndir](./slaytlar/1-Course-Overview.pdf) |
+| 2 | Linguistic Essentials | [📄 İndir](./slaytlar/2-Linguistic-Essentials.pdf) |
+| 3 | Grammar and Languages | [📄 İndir](./slaytlar/3-Grammer-and-Languages.pdf) |
+| 4 | Regular Expressions (RegEx) | [📄 İndir](./slaytlar/4-RegEx.pdf) |
+| 5 | Morphological Analysis | [📄 İndir](./slaytlar/5-Morpological-Analysis.pdf) |
+| 6 | Syntactic Analysis | [📄 İndir](./slaytlar/6-Syntactic-Analysis.pdf) |
+| 7 | Language Modeling (LM) | [📄 İndir](./slaytlar/7-LM.pdf) |
+| 8 | Semantic Analysis | [📄 İndir](./slaytlar/8-Semantic.pdf) |
+| 9 | Word Processing | [📄 İndir](./slaytlar/9-Word-Processing.pdf) |
+| 10 | Machine Learning for NLP | [📄 İndir](./slaytlar/10-Machine-Learning.pdf) |
+| 11 | Text Categorization | [📄 İndir](./slaytlar/11-Text-Categorization.pdf) |
+| 12 | Information Retrieval | [📄 İndir](./slaytlar/12-Information-Retrieval.pdf) |
+| 13 | Information Retrieval II | [📄 İndir](./slaytlar/13-Information-Retrieval-2.pdf) |
+| 14 | Question Answering (QA) Systems | [📄 İndir](./slaytlar/14-QA%20Systems.pdf) |
+| 15 | Collocations | [📄 İndir](./slaytlar/15-Collocations.pdf) |
+| 16 | Hidden Markov Models (HMM) | [📄 İndir](./slaytlar/16-HMM.pdf) |
+
+---
+
+
+---
+
+> 💡 **İpucu:** İsterseniz ilerleyen haftalarda bu tabloya “Uygulama” veya “Kod Not Defteri” sütunu da ekleyebiliriz.
