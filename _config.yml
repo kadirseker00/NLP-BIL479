@@ -1,8 +1,8 @@
-title: "Ders Adı (BIL-377 ALGORİTMA UYGULAMALARI)"
+title: "Ders Adı (BIL-479 DİL İŞLEMCİLERİ)"
 description: "Ders kaynakları, haftalık plan ve duyurular"
 lang: tr
 url: "https://kadirseker00.github.io"
-baseurl: "/AlgApp-BIL377"
+baseurl: "/NLP-BIL479"
 theme: minima
 author:
   name: "Dr. Abdulkadir Şeker"
